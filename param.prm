@@ -1,0 +1,18 @@
+[GENERAL]
+#InPut File - File with Actives Ligands
+#inp = teste_10molecs.mol2
+inp = fda_all.sdf
+
+#Query File - Cristalograph Ligand
+#query = crist.mol2
+
+#Protein File
+prot = gtp_6xet.pdb
+
+#Center of radius
+center_x = -6.76  
+center_y = -7.34
+center_z = 37.55
+
+#Radius of sphere
+rad = 60
