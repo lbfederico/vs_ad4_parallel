@@ -7,4 +7,4 @@ The user must fill in the param.prm file and the ligand and protein files must b
 
 For use:
 
-python vs_ad4_parallel.py -param param.prm
+  python vs_ad4_parallel.py -param param.prm
